@@ -1,7 +1,7 @@
 # Projeto_InterligarVM-S
 Projeto de Redes 2º Bimestre
 
-
+'''
 Tabela 1: Definições de endereços IPs da Rede e Nomes de Hosts
 -----------------------------------------------------
 |  DESCRICAO  |  IP             |   HOSTNAME        |
@@ -18,3 +18,4 @@ Tabela 1: Definições de endereços IPs da Rede e Nomes de Hosts
 | VM1-PC4     | 192.168.13.7    |   srv-vm1-pc4     |
 | VM2-PC4     | 192.168.13.8    |   srv-vm2-pc4     |
 -----------------------------------------------------
+'''
